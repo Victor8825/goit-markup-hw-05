@@ -692,6 +692,7 @@ body {
 
 .backdrop .is-hidden .modal {
   transform: translate(-50%, -50%) scale(0.9);
+  transition-duration: 250ms;
 }
 
 .modal {
